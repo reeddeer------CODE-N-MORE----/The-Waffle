@@ -1,4 +1,4 @@
-The-Waffle
+The Waffle Framework
 ==========
 
 Core Sutff+download for The Waffle Framework
